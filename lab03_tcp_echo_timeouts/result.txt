@@ -1,0 +1,9 @@
+=== терминал сервера ===
+server is listening on 9090
+new client ('127.0.0.1', 59096)
+received test msg for lab03
+client left
+
+=== терминал клиента ===
+message (exit to quit): test msg for lab03
+echo test msg for lab03
