@@ -1,0 +1,12 @@
+=== терминал сервера ===
+Bank server on port 9092
+client ('127.0.0.1', 63737)
+
+=== терминал клиента ===
+deposit
+    Amount: 10000
+    Balance: 10000
+
+withdraw
+    Amount: 7777
+    Balance: 2223
